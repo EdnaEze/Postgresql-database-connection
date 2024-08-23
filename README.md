@@ -1,8 +1,9 @@
-# Postgresql Connection using in Jupyter
+# Postgresql Connection using Jupyter Notebook
 Connecting to a PostgreSQL database in Jupyter Notebook
 
 # Description
-Established connection to a PostgeSQL database using Jupyter Notebook. Performed analysis with pandas and sql.
+Established connection to a PostgeSQL database using Jupyter Notebook. 
+Performed analysis with pandas and sql.
 
 ## Libraries
 - Sqlalchemy
